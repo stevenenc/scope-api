@@ -1,0 +1,11 @@
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/bin/Debug/net10.0/Scope.Contracts.deps.json
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/bin/Debug/net10.0/Scope.Contracts.dll
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/bin/Debug/net10.0/Scope.Contracts.pdb
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.AssemblyInfoInputs.cache
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.AssemblyInfo.cs
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.csproj.CoreCompileInputs.cache
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.dll
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/refint/Scope.Contracts.dll
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/Scope.Contracts.pdb
+/Users/stevenencarnacion/Documents/Projects/Applications/AtlasScope/scope-api/src/Scope.Contracts/obj/Debug/net10.0/ref/Scope.Contracts.dll
